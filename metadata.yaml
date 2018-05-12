@@ -1,0 +1,32 @@
+_repo: Giants-on-the-Earth_22132
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meek, S. P. (Sterner St. Paul)
+    alias: Meek, Sterner St. Paul
+    birthdate: 1894
+    deathdate: 1972
+    gutenberg_agent_id: '25130'
+    url: http://www.gutenberg.org/2009/agents/25130
+    wikipedia: http://en.wikipedia.org/wiki/S.P._Meek
+description: The yoke of Jovian oppression rests heavily on the dwellers of Earth
+  until Damis, the Nepthalim, comes forward to lead them in spirited revolt.
+gutenberg_bookshelf:
+- Astounding Stories
+- Science Fiction
+gutenberg_issued: '2007-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Giants on the Earth
+url: http://www.gutenberg.org/ebooks/22132
